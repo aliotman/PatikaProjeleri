@@ -1,0 +1,15 @@
+C:\Users\ratib\Desktop\ToDo_App\bin\Debug\net6.0\ToDo_App.exe
+C:\Users\ratib\Desktop\ToDo_App\bin\Debug\net6.0\ToDo_App.deps.json
+C:\Users\ratib\Desktop\ToDo_App\bin\Debug\net6.0\ToDo_App.runtimeconfig.json
+C:\Users\ratib\Desktop\ToDo_App\bin\Debug\net6.0\ToDo_App.dll
+C:\Users\ratib\Desktop\ToDo_App\bin\Debug\net6.0\ToDo_App.pdb
+C:\Users\ratib\Desktop\ToDo_App\obj\Debug\net6.0\ToDo_App.csproj.AssemblyReference.cache
+C:\Users\ratib\Desktop\ToDo_App\obj\Debug\net6.0\ToDo_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ratib\Desktop\ToDo_App\obj\Debug\net6.0\ToDo_App.AssemblyInfoInputs.cache
+C:\Users\ratib\Desktop\ToDo_App\obj\Debug\net6.0\ToDo_App.AssemblyInfo.cs
+C:\Users\ratib\Desktop\ToDo_App\obj\Debug\net6.0\ToDo_App.csproj.CoreCompileInputs.cache
+C:\Users\ratib\Desktop\ToDo_App\obj\Debug\net6.0\ToDo_App.dll
+C:\Users\ratib\Desktop\ToDo_App\obj\Debug\net6.0\refint\ToDo_App.dll
+C:\Users\ratib\Desktop\ToDo_App\obj\Debug\net6.0\ToDo_App.pdb
+C:\Users\ratib\Desktop\ToDo_App\obj\Debug\net6.0\ToDo_App.genruntimeconfig.cache
+C:\Users\ratib\Desktop\ToDo_App\obj\Debug\net6.0\ref\ToDo_App.dll
