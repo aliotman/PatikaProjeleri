@@ -1,0 +1,15 @@
+C:\Users\Mert\Desktop\Projects\Back End\Zor\Voting\bin\Debug\net6.0\Voting.exe
+C:\Users\Mert\Desktop\Projects\Back End\Zor\Voting\bin\Debug\net6.0\Voting.deps.json
+C:\Users\Mert\Desktop\Projects\Back End\Zor\Voting\bin\Debug\net6.0\Voting.runtimeconfig.json
+C:\Users\Mert\Desktop\Projects\Back End\Zor\Voting\bin\Debug\net6.0\Voting.dll
+C:\Users\Mert\Desktop\Projects\Back End\Zor\Voting\bin\Debug\net6.0\Voting.pdb
+C:\Users\Mert\Desktop\Projects\Back End\Zor\Voting\obj\Debug\net6.0\Voting.csproj.AssemblyReference.cache
+C:\Users\Mert\Desktop\Projects\Back End\Zor\Voting\obj\Debug\net6.0\Voting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\Desktop\Projects\Back End\Zor\Voting\obj\Debug\net6.0\Voting.AssemblyInfoInputs.cache
+C:\Users\Mert\Desktop\Projects\Back End\Zor\Voting\obj\Debug\net6.0\Voting.AssemblyInfo.cs
+C:\Users\Mert\Desktop\Projects\Back End\Zor\Voting\obj\Debug\net6.0\Voting.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\Projects\Back End\Zor\Voting\obj\Debug\net6.0\Voting.dll
+C:\Users\Mert\Desktop\Projects\Back End\Zor\Voting\obj\Debug\net6.0\refint\Voting.dll
+C:\Users\Mert\Desktop\Projects\Back End\Zor\Voting\obj\Debug\net6.0\Voting.pdb
+C:\Users\Mert\Desktop\Projects\Back End\Zor\Voting\obj\Debug\net6.0\Voting.genruntimeconfig.cache
+C:\Users\Mert\Desktop\Projects\Back End\Zor\Voting\obj\Debug\net6.0\ref\Voting.dll
